@@ -8,6 +8,10 @@ Moloch augments your current security infrastructure to store and index network 
 
 Moloch is built to be deployed across many systems and can scale to handle tens of gigabits/sec of traffic. PCAP retention is based on available sensor disk space. Metadata retention is based on the Elasticsearch cluster scale. Both can be increased at anytime and are under your complete control.
 
+## My Moloch (Alterations)
+
+Developing for deployment in  Kubernetes clusters
+
 ## Table of Contents
 
 - [Background](#background)
